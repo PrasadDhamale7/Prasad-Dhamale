@@ -57,19 +57,7 @@ Passionate about transforming raw data into meaningful insights through analytic
 </a>
 </p>
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrasadDhamale7&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrasadDhamale7&theme=tokyonight" alt="streak" />
-</p>
-
----
 
 ## 💡 Quote I Believe In
 
