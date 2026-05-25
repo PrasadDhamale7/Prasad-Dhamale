@@ -57,7 +57,7 @@ Passionate about transforming raw data into meaningful insights through analytic
 </a>
 </p>
 
-
+---
 
 ## 💡 Quote I Believe In
 
